@@ -9,14 +9,17 @@ Monthly Trends: Peaks in June and December align with holidays and vacations.
 Seasonal Insights: Fall had the highest viewership, with stable trends in other seasons.
 Weekly Patterns: Fridays saw the most releases and viewership, targeting weekend audiences.
 Holiday Impact: High engagement during holidays like New Year’s and Christmas due to themed releases.
+
 **Recommendations**
 Expand Language Content: Cater to global audiences with non-English content.
 Strategic Scheduling: Focus on holiday and weekend releases for maximum engagement.
 Marketing Campaigns: Leverage seasonal trends to drive targeted promotions.
 Data-Driven Planning: Optimize release schedules and ads using insights.
+
 **Tools & Libraries**
 Python (Pandas, Matplotlib, Seaborn) for analysis and visualization.
 PowerPoint for reporting.
+
 **Outputs**
 Charts and Visualizations highlighting trends.
 PowerPoint Presentation summarizing insights.
